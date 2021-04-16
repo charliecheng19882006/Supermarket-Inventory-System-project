@@ -1,0 +1,2 @@
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.CustomerConsoleApp\obj\Debug\Vic.SuperMarket.CustomerConsoleApp.csprojAssemblyReference.cache
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.CustomerConsoleApp\obj\Debug\Vic.SuperMarket.CustomerConsoleApp.csproj.CoreCompileInputs.cache

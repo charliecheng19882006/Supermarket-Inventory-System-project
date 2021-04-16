@@ -1,0 +1,14 @@
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\obj\Release\Vic.SuperMarket.AdminConsoleApp.csproj.CoreCompileInputs.cache
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.AdminConsoleApp.exe.config
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.AdminConsoleApp.exe
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.AdminConsoleApp.pdb
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.Data.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.Services.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Newtonsoft.Json.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.Data.pdb
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Vic.SuperMarket.Services.pdb
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\bin\Release\Newtonsoft.Json.xml
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\obj\Release\Vic.SuperMarket.AdminConsoleApp.csprojAssemblyReference.cache
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\obj\Release\Vic.SuperMarket.AdminConsoleApp.csproj.CopyComplete
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\obj\Release\Vic.SuperMarket.AdminConsoleApp.exe
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.AdminConsoleApp\obj\Release\Vic.SuperMarket.AdminConsoleApp.pdb

@@ -1,0 +1,1 @@
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Debug\Vic.SuperMarket.Services.csproj.CoreCompileInputs.cache

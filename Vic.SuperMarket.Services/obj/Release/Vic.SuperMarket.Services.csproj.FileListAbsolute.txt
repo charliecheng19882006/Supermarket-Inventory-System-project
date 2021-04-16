@@ -1,0 +1,11 @@
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Release\Vic.SuperMarket.Services.csproj.CoreCompileInputs.cache
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Vic.SuperMarket.Services.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Vic.SuperMarket.Services.pdb
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Vic.SuperMarket.Data.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Newtonsoft.Json.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Vic.SuperMarket.Data.pdb
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\bin\Release\Newtonsoft.Json.xml
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Release\Vic.SuperMarket.Services.csprojAssemblyReference.cache
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Release\Vic.SuperMarket.Services.csproj.CopyComplete
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Release\Vic.SuperMarket.Services.dll
+D:\C# project\Vic.SuperMarket\Vic.SuperMarket.Services\obj\Release\Vic.SuperMarket.Services.pdb
